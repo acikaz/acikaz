@@ -27,9 +27,9 @@
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="nginx"  />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="microsoft_azure" />
 <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Aws"  />
-<img src="Resources/svgicons/google_cloud-icon.svg" alt="gcp" width="45" height="45" />
-<img src="Resources/svgicons/rabbitmq-icon.svg" alt="rabbitmq" width="45" height="45" />
-<img src="Resources/svgicons/microsoft_powerbi-icon.svg" alt="Power-Bi" width="45" height="45" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="gcp"  />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="rabbitmq"  />
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Power-Bi"  />
 <img src="Resources/svgicons/visualstudio_code-icon.svg" alt="VS-Code" width="45" height="45" />
 <img src="Resources/svgicons/bitbucket-icon.svg" alt="BitBucket" width="45" height="45" />
 <img src="Resources/svgicons/gitlab-icon.svg" alt="Gitlab" width="45" height="45" />
