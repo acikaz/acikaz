@@ -1,19 +1,21 @@
-### Hi there, I'm Aleksandar Zec 👋
+# Gurpreet Singh: Human being from 1990's 
 
-<!--
-**acikaz/acikaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### *"I think, fundamentally, open source does tend to be more stable software. It's the right way to do things." — Linus Torvalds*
 
-Here are some ideas to get you started:
+![](https://visitor-badge.glitch.me/badge?page_id=github.com/supersaiyane) [![GitHub followers](https://img.shields.io/github/followers/supersaiyane?label=Follow&style=social)](https://github.com/supersaiyane/?tab=follow) ![Profile views](https://gpvc.arturio.dev/supersaiyane) ![licence:free to use](https://img.shields.io/badge/licence-free--to--use-blue) [![Linkedin Badge](https://img.shields.io/badge/-gurpreetsingh89-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gurpreetsingh89/)](https://www.linkedin.com/in/gurpreetsingh89/) [![dev.to Badge](https://img.shields.io/badge/-@gurpreetsingh-000000?style=flat&labelColor=000000&logo=dev.to&link=https://dev.to/gurpreetsingh)](https://dev.to/gurpreetsingh) [![Instagram Badge](https://img.shields.io/badge/-lyfzcool89-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/lyfzcool89/)](https://instagram.com/lyfzcool89) [![Outlook Badge](https://img.shields.io/badge/-gurpreet.singh-c14438?style=flat&logo=microsoft-outlook&logoColor=white&link=mailto:gurpreet.singh_89@outlook.com)](mailto:gurpreet.singh_89@outlook.com)
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Portfolio
+
+<img align="right" src="Resources/gifs/code.gif" width="500" height="320" />
+
+- Architecting and Designing Products/ Systems.
+- Doing Code reviews/ Process reviews/ Spec review/ setting up processes and managing projects.
+- Exposure across multiple domains like Manufacturing, Security, Travel and Retail, eCommerce.
+- Being able to get away easily at any level in the organization, feel confident in dealing with situations at hand and can turn around things that are ‘worst’ to ‘best’.
+- Ambitious, highly motivated and able to face challenging work and deliver quality output while meeting deadlines.
+- Results-oriented, Technology professional with proven leadership ability; capable of keeping a team focused on day-to-day tasks and long-term deadlines.
+
 <h2>🚀 Few Tools/ Technologies/ Framework i use/used</h2>
 <p align="left">
 <img src="Resources/svgicons/css3-original-wordmark.svg" alt="css3" width="45" height="45" />
@@ -53,4 +55,21 @@ Here are some ideas to get you started:
 <img src="Resources/svgicons/mongodb-icon.svg" alt="mongodb" width="45" height="45" />
 <img src="Resources/svgicons/couchbase-icon.svg" alt="Couchbase" width="45" height="45" />
 </p>
+
+---
+## 💻 Statistics
+
+
+<a href="https://github.com/supersaiyane/supersaiyane">
+  <img align="center" src="https://bad-apple-github-readme.vercel.app/api?username=supersaiyane&show_icons=true&line_height=27&count_private=true" alt="supersaiyane's GitHub Stats" />
+</a>
+
+<p>&nbsp;</p>
+
+<a href="https://github.com/supersaiyane/supersaiyane">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=supersaiyane&column=7" />
+</a>
+
+---
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
