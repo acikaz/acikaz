@@ -18,7 +18,7 @@
 - Results-oriented, Technology professional with proven leadership ability; capable of keeping a team focused on day-to-day tasks and long-term deadlines.
 - Ambitious, highly motivated and able to face challenging work and deliver quality output while meeting deadlines. 
 
-<h2>🚀 Languages and Tools</h2>
+<h2>💻 Languages and Tools</h2>
 <p align="left">
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="css3" />
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Html5"/>
