@@ -9,12 +9,11 @@
 
 <img align="right" src="Resources/gifs/code.gif" width="500" height="320" />
 
-- Architecting and Designing Products/ Systems.
-- Doing Code reviews/ Process reviews/ Spec review/ setting up processes and managing projects.
-- Exposure across multiple domains like Manufacturing, Security, Travel and Retail, eCommerce.
-- Being able to get away easily at any level in the organization, feel confident in dealing with situations at hand and can turn around things that are ‘worst’ to ‘best’.
-- Ambitious, highly motivated and able to face challenging work and deliver quality output while meeting deadlines.
-- Results-oriented, Technology professional with proven leadership ability; capable of keeping a team focused on day-to-day tasks and long-term deadlines.
+- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2020 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to draw and play guitar / drums
 
 <h2>🚀 Few Tools/ Technologies/ Framework i use/used</h2>
 <p align="left">
@@ -54,7 +53,7 @@
 <img src="Resources/svgicons/phpmyadmin-icon.svg" alt="PHPmyAdmin" width="45" height="45" />
 <img src="Resources/svgicons/mongodb-icon.svg" alt="mongodb" width="45" height="45" />
 <img src="Resources/svgicons/couchbase-icon.svg" alt="Couchbase" width="45" height="45" /> -->
-
+</p>
 
 ---
 ## 💻 Statistics
