@@ -18,7 +18,7 @@
 
 <h2>🚀 Few Tools/ Technologies/ Framework i use/used</h2>
 <p align="left">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="css3" width="45" height="45" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="css3" />
 <img src="Resources/svgicons//w3_html5-icon.svg" alt="Html5" width="45" height="45" />
 <img src="Resources/svgicons/javascript-original.svg" alt="javascript" width="45" height="45" />
 <img src="Resources/svgicons/dotnet-icon.svg" alt=".NET" width="45" height="45" />
