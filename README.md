@@ -65,7 +65,7 @@
 <img align="center" src="Resources/gifs/books.jpg" width="800" height="500" />
 <br>
 
-💵 You can buy it here:
+💵 You can buy it here ⤵️
 
 * Django 3 By Example: 
 https://www.amazon.com/Django-Example-powerful-reliable-applications/dp/1838981950/ref=sr_1_1?crid=1PGCEWRZY5A4C&dchild=1&keywords=django+3+by+example&qid=1613430409&sprefix=django+3%2Caps%2C258&sr=8-1
