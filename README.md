@@ -62,7 +62,7 @@
 ## 📚 Books That I Read
 
 
-<img align="right" src="Resources/gifs/code.gif" width="500" height="320" />
+<img align="center" src="Resources/gifs/books.jpg" width="500" height="320" />
 
 <p>&nbsp;</p>
 
