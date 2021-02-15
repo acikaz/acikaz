@@ -59,7 +59,7 @@
 </p>
 
 ---
-## 💻 Statistics
+## 📚 Books That I Read
 
 
 <a href="https://github.com/supersaiyane/supersaiyane">
