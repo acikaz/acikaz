@@ -1,4 +1,4 @@
-# Gurpreet Singh: Human being from 1990's 
+# 👋 Hi there, I'm Aleksandar - aka AlexRabbit 🐰
 
 #### *"I think, fundamentally, open source does tend to be more stable software. It's the right way to do things." — Linus Torvalds*
 
