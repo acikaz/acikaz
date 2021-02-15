@@ -20,7 +20,7 @@ sdasdasdasdasdasdasdasdas as as da da da
 - asdasdasd as as asd a as a as as as as. asd asdasdsadadasdasdasdasdasd
 asdasdasdasdasdasdasdasdas as as da da da 
 
-<h2>🚀 Few Tools/ Technologies/ Framework i use/used</h2>
+<h2>🚀 Languages and Tools</h2>
 <p align="left">
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="css3" />
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Html5"/>
