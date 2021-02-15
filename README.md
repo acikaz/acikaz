@@ -21,9 +21,9 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="css3" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Html5"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="javascript"/>
-<img src="Resources/svgicons/dotnet-icon.svg" alt=".NET" width="45" height="45" />
-<img src="Resources/svgicons/python-icon.svg" alt="python" width="45" height="45" />
-<img src="Resources/svgicons/golang-icon.svg" alt="golang" width="45" height="45" />
+<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt=".NET" />
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="python"  />
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="golang"  />
 <img src="Resources/svgicons/nginx-icon.svg" alt="nginx" width="45" height="45" />
 <img src="Resources/svgicons/microsoft_azure-icon.svg" alt="microsoft_azure" width="45" height="45" />
 <img src="Resources/svgicons/amazon_aws-icon.svg" alt="Aws" width="50" height="45" />
