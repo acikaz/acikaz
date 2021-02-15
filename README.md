@@ -64,8 +64,11 @@
 
 <img align="center" src="Resources/gifs/books.jpg" width="800" height="500" />
 
-- Django 3 By Example:
+- Django 3 By Example: Build powerful and reliable Python web applications from scratch, 3rd Edition Paperback – March 31, 2020
 https://www.amazon.com/Django-Example-powerful-reliable-applications/dp/1838981950/ref=sr_1_1?crid=1PGCEWRZY5A4C&dchild=1&keywords=django+3+by+example&qid=1613430409&sprefix=django+3%2Caps%2C258&sr=8-1
+<br>
+- Build a Website With Django 3 Paperback – June 12, 2020:
+https://www.amazon.com/Build-Website-Django-Nigel-George/dp/0648884406/ref=sr_1_1?dchild=1&keywords=build+a+website+with+django&qid=1613430540&sr=8-1
 
 <p>&nbsp;</p>
 
