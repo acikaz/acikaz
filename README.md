@@ -15,8 +15,8 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
-- 
-- 
+- asdasdasd as as asd a as a as as as as. asd asdasdsadadasdasdasdasdasdasdasdasdasdasdasdasdasdas as as da da da 
+- asdasdasd as as asd a as a as as as as. asd asdasdsadadasdasdasdasdasdasdasdasdasdasdasdasdasdas as as da da da 
 
 <h2>🚀 Few Tools/ Technologies/ Framework i use/used</h2>
 <p align="left">
