@@ -62,9 +62,7 @@
 ## 📚 Books That I Read
 
 
-<a href="https://github.com/supersaiyane/supersaiyane">
-  <img align="center" src="https://bad-apple-github-readme.vercel.app/api?username=supersaiyane&show_icons=true&line_height=27&count_private=true" alt="supersaiyane's GitHub Stats" />
-</a>
+<img align="right" src="Resources/gifs/code.gif" width="500" height="320" />
 
 <p>&nbsp;</p>
 
