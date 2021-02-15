@@ -15,10 +15,8 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
-- asdasdasd as as asd a as a as as as as. asd asdasdsadadasdasdasdasdasda
-sdasdasdasdasdasdasdasdas as as da da da 
-- asdasdasd as as asd a as a as as as as. asd asdasdsadadasdasdasdasdasd
-asdasdasdasdasdasdasdasdas as as da da da 
+- Results-oriented, Technology professional with proven leadership ability; capable of keeping a team focused on day-to-day tasks and long-term deadlines.
+- Ambitious, highly motivated and able to face challenging work and deliver quality output while meeting deadlines. 
 
 <h2>🚀 Languages and Tools</h2>
 <p align="left">
