@@ -3,7 +3,7 @@
 #### *"There are 10 types of people in the world. Those who understand binary and those who don't." — Neo*
 ## 🔗 Connect
 
-<p align='center'>
+<p align='left'>
   
   <!--<a href="https://wa.me/5518996643974?text=Olá!%20Alexandre">
     <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />    
