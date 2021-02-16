@@ -36,6 +36,7 @@
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Learn one-two more frameworks and get AWS certification
 - ⚡ Ambitious, highly motivated and able to face challenging work and deliver quality output while meeting deadlines
+- 📖 Always learning new technologies for a competitive edge
 - 🏞 Hobbies: Love hiking, playing video games, football and reading 
 
 <h2>💻 Languages and Tools:</h2>
