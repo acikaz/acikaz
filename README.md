@@ -31,11 +31,11 @@
 <img align="right" src="Resources/gifs/code.gif" width="500" height="320" />
 
 
-- 🔭 Developer in process of learning new and fun stuff in IT world :)
+- 🔭 Developer in process of learning new and fun stuff in IT world 😊
 - 🌱 I’m currently learning...everything 🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2020 Goals: Learn one-two more frameworks and get AWS certification
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🥅 2021 Goals: Learn one-two more frameworks and get AWS certification
+- ⚡ Ambitious, highly motivated and able to face challenging work and deliver quality output while meeting deadlines
 - 🏞 Hobbies: Love hiking, playing video games, football and reading 
 
 <h2>💻 Languages and Tools</h2>
