@@ -31,7 +31,7 @@
 <img align="right" src="Resources/gifs/code.gif" width="500" height="320" />
 
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
+- 🔭 Developer in process of learning new and fun stuff in IT world :)
 - 🌱 I’m currently learning...everything 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2020 Goals: Learn one-two more frameworks and get AWS certification
