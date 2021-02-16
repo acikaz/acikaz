@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/aleksandar-zec-1214476a/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://instagram.com/alexandresanlim">
+  <a href="https://www.instagram.com/al3x_c0de/">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
   
