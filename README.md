@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Aleksandar - aka AlexRabbit 🐰
 
 #### *"There are 10 types of people in the world. Those who understand binary and those who don't." — Neo*
-## 🔗 Connect
+## 🔗 Connect:
 
 <p align='left'>
   
@@ -26,7 +26,7 @@
   
 </p>
 
-## 📝 About Me
+## 📝 About Me:
 
 <img align="right" src="Resources/gifs/code.gif" width="500" height="320" />
 
@@ -38,7 +38,7 @@
 - ⚡ Ambitious, highly motivated and able to face challenging work and deliver quality output while meeting deadlines
 - 🏞 Hobbies: Love hiking, playing video games, football and reading 
 
-<h2>💻 Languages and Tools</h2>
+<h2>💻 Languages and Tools:</h2>
 <p align="left">
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="css3" />
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Html5"/>
@@ -79,7 +79,7 @@
 </p>
 
 ---
-## 📚 Books That I Read
+## 📚 Books That I Read:
 
 
 <img align="center" src="Resources/gifs/books.jpg" width="900" height="600" />
