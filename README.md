@@ -32,12 +32,11 @@
 
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🌱 I’m currently learning...everything 🤣
+- 👯 I’m looking to collaborate with other developers
+- 🥅 2020 Goals: Learn one-two more frameworks and get AWS certification
 - ⚡ Fun fact: I love to draw and play guitar / drums
-- Results-oriented, Technology professional with proven leadership ability; capable of keeping a team focused on day-to-day tasks and long-term deadlines.
-- Ambitious, highly motivated and able to face challenging work and deliver quality output while meeting deadlines. 
+- 🏞 Hobbies: Love hiking, playing video games, football and reading 
 
 <h2>💻 Languages and Tools</h2>
 <p align="left">
