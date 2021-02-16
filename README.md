@@ -3,7 +3,7 @@
 #### *"There are 10 types of people in the world. Those who understand binary and those who don't." — Neo*
 ## 🔗 Connect
 
-![image](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
+<link href="https://www.instagram.com/al3x_c0de/"![image](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)>
 ---
 
 ## 📝 About Me
