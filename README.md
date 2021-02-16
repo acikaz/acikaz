@@ -28,7 +28,7 @@
 
 ## 📝 About Me:
 
-<img align="right" src="Resources/gifs/nubelson-fernandes--Xqckh_XVU4-unsplash.jpg" width="500" height="320" />
+<img align="right" src="Resources/gifs/code.gif" width="500" height="320" />
 
 
 - 🔭 Developer in process of learning new and fun stuff in IT world 😊
