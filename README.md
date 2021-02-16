@@ -40,7 +40,7 @@
 - Ambitious, highly motivated and able to face challenging work and deliver quality output while meeting deadlines. 
 
 <h2>💻 Languages and Tools</h2>
-<p align="left">
+<p align="center">
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="css3" />
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Html5"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/>
