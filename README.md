@@ -34,7 +34,7 @@
 - 🔭 Developer in process of learning new and fun stuff in IT world 😊
 - 🌱 I’m currently learning...everything 🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2022 Goals: Learn one-two more frameworks and get AWS certification
+- 🥅 2023 Goals: Learn one-two more frameworks and get AWS certification
 - ⚡ Ambitious, highly motivated and able to face challenging work and deliver quality output while meeting deadlines
 - 📖 Always learning new technologies for a competitive edge
 - 🏞 Hobbies: Love hiking, playing video games, football and reading 
